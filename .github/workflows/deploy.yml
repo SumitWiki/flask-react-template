@@ -19,5 +19,4 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           proxy_host: ${{ secrets.SSH_HOST }}
           script: |
-            cd /home/sumit-ranjan-jha/flask-react-template
-            bash deploy.sh
+            cd /home/ubuntu/flask-react-template

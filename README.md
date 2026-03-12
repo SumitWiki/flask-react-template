@@ -45,3 +45,4 @@ Once you have familiarized yourself with the documentation, head over to the [En
 
 PS: Before you start working on the application, these [three git settings](https://spin.atomicobject.com/git-configurations-default/) are a must-have!
 test
+test aws deploy

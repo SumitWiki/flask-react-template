@@ -65,3 +65,4 @@ test
 test
 fix
 fresh start
+final deploy test

@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 echo "Start"
-cd /home/sumit-ranjan-jha/flask-react-template
+cd /home/ubuntu/flask-react-template
 git pull origin main
 
 # React Frontend
